@@ -1,5 +1,5 @@
 #!/bin/bash
-sudo emerge app-misc/neofetch
+sudo emerge media-gfx/feh
 sudo emerge x11-misc/polybar
 sudo emerge x11-wm/i3
 cp -f res2/polybar/config .config/polybar/config
