@@ -1,2 +1,2 @@
 # GentOwO
-I have no clue about how this works, but it does work...
+I dont have any clue how to make this
