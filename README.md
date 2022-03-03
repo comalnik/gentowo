@@ -1,2 +1,2 @@
 # GentOwO
-what is linux
+A simple shell script that replaces 
